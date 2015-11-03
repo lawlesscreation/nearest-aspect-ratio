@@ -1,0 +1,19 @@
+/*
+    Bootstrap overwrites
+*/
+.navbar {
+    border-radius: 0;
+}
+
+.navbar .navbar-brand {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.btn-primary {
+    margin-bottom: 1em;
+}
+
+img {
+    max-width: 100%;
+}
